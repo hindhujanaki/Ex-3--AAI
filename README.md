@@ -1,5 +1,5 @@
 <H3>G.Hindhu</H3>
-<H3>ENTER YOUR REGISTER NO.212223230079</H3>
+<H3> REGISTER NO.212223230079</H3>
 <H3>EX. NO.3</H3>
 
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
